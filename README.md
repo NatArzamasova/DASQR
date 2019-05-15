@@ -1,7 +1,7 @@
 # DASQR
 This is an open access data for the original article "Scalable and Data-Aware SQL Query Recommendations".
 
-In folder "InputLogs" there are two files, "fullLog.txt" and "sampledLog.txt", which stand for full and sampled logs consequently.
+In folder "InputLogs" there are three files, "fullLog_part1.txt", "fullLog_part2.txt" and "sampledLog.txt", which stand for full and sampled logs consequently. One needs to combine "fullLog_part1.txt" and "fullLog_part2.txt" to get the full log.
 
 Each row (except for the first) of teh files has three values: "seq", "us" and "class". 
 
